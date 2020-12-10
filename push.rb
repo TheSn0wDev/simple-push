@@ -17,8 +17,6 @@ while ((modif.size - 1) == 0) do
     modif = gets
 end
 
-# modif = modif.gsub(" ", "_")
-# puts modif
 system("git add .")
 system("git commit -m \"["+ branch_name +"] => "+ modif +"\"")
 system("git push")
