@@ -11,11 +11,13 @@
 
 ```sh
 git clone https://github.com/ModzDev/simple-push
+sudo gem install colorize
 ```
 
 ## Usage
 
 ```sh
+sudo chmod +x push.rb
 ./push.rb
 ```
 
