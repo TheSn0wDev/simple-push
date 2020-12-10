@@ -20,5 +20,3 @@ end
 system("git add .")
 system("git commit -m \"["+ branch_name +"] => "+ modif +"\"")
 system("git push")
-
-puts "All files are pushed !".green
