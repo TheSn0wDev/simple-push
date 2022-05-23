@@ -16,7 +16,7 @@ I programmed this tool in ruby. It was the first time I used this language. I us
 ## Install
 
 ```sh
-git clone https://github.com/ModzDev/simple-push
+git clone https://github.com/Sn00ww/simple-push
 sudo gem install colorize
 ```
 
