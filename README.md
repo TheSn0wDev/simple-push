@@ -13,8 +13,6 @@ I made this program to push only with one command and a formatted commit message
 
 I programmed this tool in ruby. It was the first time I used this language. I used the colorize library to add some colors in the terminal.
 
-> A program to push more easily
-
 ## Install
 
 ```sh
